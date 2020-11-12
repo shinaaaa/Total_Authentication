@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">통합 인증</string>
+    <string name="app_icon">어플리케이션 로고</string>
+    <string name="kakao">카카오로 인증하기</string>
+    <string name="kakao_link">kakaotalk://con/web?url=https://accounts.kakao.com/qr_check_in</string>
+    <string name="naver">네이버로 인증하기</string>
+    <string name="naver_link">naversearchapp://inappbrowser?url=https://nid.naver.com/login/privacyQR&amp;target=new&amp;version=6</string>
+    <string name="choose_in_list">원하시는 인증 방법을 선택하세요.</string>
+    <string name="title">QR 인증</string>
+</resources>
